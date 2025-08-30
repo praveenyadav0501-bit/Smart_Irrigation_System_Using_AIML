@@ -1,4 +1,5 @@
 # Smart_Irrigation_System_Using_AIML
+
 Project Description:
 
 This project is a machine learning-based decision support system designed to optimize agricultural irrigation. It uses real-time crop and environmental data to predict whether irrigation is required, helping farmers save water, energy, and costs while increasing crop yield.
